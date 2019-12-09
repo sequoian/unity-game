@@ -3,8 +3,8 @@
 # Whitelist Assets, Packages, and ProjectSettings folders
 !.gitignore
 !Assets/
-!Assets/*
+!Assets/**/*
 !Packages/
-!Packages/*
+!Packages/**/*
 !ProjectSettings/
-!ProjectSettings/*
+!ProjectSettings/**/*
